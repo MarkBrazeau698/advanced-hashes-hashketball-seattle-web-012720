@@ -289,6 +289,7 @@ def long_name_steals_a_ton
       end
     end
   end
+  name
  # player_with_longest_name == name
 end
 
