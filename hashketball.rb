@@ -276,8 +276,8 @@ def player_with_longest_name
 end
 
 def long_name_steals_a_ton
-  player_with_longest_name
-binding.pry
+ return player_with_longest_name
+#binding.pry
 end
 
 
